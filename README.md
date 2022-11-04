@@ -1,2 +1,2 @@
-# data-mining
-Everything for Data Mining university course
+# Data-mining
+Data mining projects for learning.
